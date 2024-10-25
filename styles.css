@@ -4,3 +4,9 @@ body {
     background: rgb(165, 70, 15); 
     margin: 0px;
 }
+
+header {
+
+border-bottom: solid 3px white;
+
+}
